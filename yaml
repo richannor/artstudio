@@ -1,0 +1,18 @@
+
+---
+
+## 🛠 Requirements
+
+- Java 11+
+- Maven 3.8+
+- Apache Tomcat 10+
+- Git
+
+---
+
+## ⚙️ Build the Project
+
+From the project root:
+
+```bash
+mvn clean package
