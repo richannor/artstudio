@@ -20,4 +20,23 @@ gallery, or studio site.
 ---
 
 ## 📁 Project Structure
+artist-studio/
+├── pom.xml
+└── src
+    └── main
+        ├── java
+        │   └── com
+        │       └── artiststudio
+        │           └── web
+        │               └── HomeServlet.java
+        ├── resources
+        └── webapp
+            ├── index.jsp
+            ├── gallery.jsp
+            ├── about.jsp
+            ├── css
+            │   └── style.css
+            └── WEB-INF
+                └── web.xml
+
 
